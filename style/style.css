@@ -270,6 +270,7 @@ header label {
 
 .footer-redes a {
     text-decoration: none;
+    color: #707070;
 }
 
 @media (min-width:1024px) {
